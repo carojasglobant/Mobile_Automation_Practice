@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My suite">
+
+	<test name="Test Navigation">
+		<classes>
+			<class name="tests.NavigationBottomMenuBarTest" />
+		</classes>
+	</test>
+
+	<test name="Test Sign Up">
+		<classes>
+			<class name="tests.SuccessfulSignUpTest" />
+		</classes>
+	</test>
+
+	<test name="Test Log In">
+		<classes>
+			<class name="tests.SuccessfulLogInTest" />
+		</classes>
+	</test>
+
+	<test name="Test Swipe Cards">
+		<classes>
+			<class name="tests.SwipeCardsTest" />
+		</classes>
+	</test>
+</suite> 

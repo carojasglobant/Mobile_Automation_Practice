@@ -1,0 +1,9 @@
+{
+	"platformName": "Android",
+	"appium:platformVersion": "14",
+	"appium:deviceName": "AndroidPhone",
+	"appium:automationName": "UiAutomator2",
+	"appium:appActivity": "com.wdiodemoapp.MainActivity",
+	"appium:appPackage": "com.wdiodemoapp",
+	"appium:app": "C:\\Users\\ca.rojas\\Desktop\\Android-NativeDemoApp-0.4.0.apk"
+}
